@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading;
 using System.Web;
 using server2008.server.tcp;
-// mysql -u jeesus -p  server2007 < osu.sql
+// mysql -u jeesus -p  server2008 < osu.sql
 namespace server_2007.http
 {
     class HttpServer
